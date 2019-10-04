@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СкладОИТ", "СкладОИТ\СкладОИТ.csproj", "{FCC6B732-8632-401D-8FA1-EE6ECEE08624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC6B732-8632-401D-8FA1-EE6ECEE08624}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC6B732-8632-401D-8FA1-EE6ECEE08624}.All|Any CPU.Build.0 = Release|Any CPU
+		{FCC6B732-8632-401D-8FA1-EE6ECEE08624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC6B732-8632-401D-8FA1-EE6ECEE08624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC6B732-8632-401D-8FA1-EE6ECEE08624}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC6B732-8632-401D-8FA1-EE6ECEE08624}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{FCC6B732-8632-401D-8FA1-EE6ECEE08624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC6B732-8632-401D-8FA1-EE6ECEE08624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A3627F1-4BCE-4227-B9DC-C1115B8BFAE6}
+	EndGlobalSection
+EndGlobal

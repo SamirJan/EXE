@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AB8CBAC3-39C7-4218-9D8D-4F3C52133A7D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>XPO_СкладОИТ_ВыдачаНоменклатуры</RootNamespace>
+    <AssemblyName>XPO_СкладОИТ_ВыдачаНоменклатуры</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v19.1, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v19.1, Version=19.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XPO\СкладCode\ConnectionHelper.cs" />
+    <Compile Include="XPO\СкладCode\ВыданнаяНоменклатура.cs" />
+    <Compile Include="XPO\СкладCode\ВыданнаяНоменклатура.Designer.cs">
+      <DependentUpon>ВыданнаяНоменклатура.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XPO\СкладCode\ВыданнаяНоменклатура_ПродажаООО.cs" />
+    <Compile Include="XPO\СкладCode\ВыданнаяНоменклатура_ПродажаООО.Designer.cs">
+      <DependentUpon>ВыданнаяНоменклатура_ПродажаООО.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XPO\СкладCode\Номенклатура.cs" />
+    <Compile Include="XPO\СкладCode\Номенклатура.Designer.cs">
+      <DependentUpon>Номенклатура.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XPO\СкладCode\Отдел.cs" />
+    <Compile Include="XPO\СкладCode\Отдел.Designer.cs">
+      <DependentUpon>Отдел.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XPO\СкладCode\Пользователь.cs" />
+    <Compile Include="XPO\СкладCode\Пользователь.Designer.cs">
+      <DependentUpon>Пользователь.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="XPO\Склад.xpo" />
+    <None Include="XPO\Склад.xpo.diagram">
+      <DependentUpon>Склад.xpo</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

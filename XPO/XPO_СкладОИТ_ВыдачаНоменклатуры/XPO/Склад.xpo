@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d8e49825-16ac-4f21-88e6-36dcd35e1390" namespace="СкладОИТ.XPO.СкладОИТ" dataBaseShemaInfo="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" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" connectionStringName="СкладОИТ" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <classes>
+    <dataBaseObjectModelHasClasses Id="fb4ad210-2bae-4e09-9f3e-37e4d74f1942">
+      <xpObject Id="24d5218f-de99-4959-a3ad-7c1db29beb16" name="Пользователь" baseClass="XPObject" userFileName="Пользователь" designerFileName="Пользователь.Designer" className="Пользователь" deferredDeletion="False" persistent="Склад.Пользователь" virtualName="Пользователь">
+        <fields>
+          <generalXpObjectHasFields Id="c9761649-6322-40f3-92e2-019ae0bfbfdd">
+            <field Id="07217f0a-5b95-4338-9730-8e75743160df" name="ФИО" persistent="ФИО" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="50" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="d7ffbea2-55e0-4250-97fe-f968989d88ff" sourceCollectionName="ВыданнаяНоменклатура" name="ВыданнаяНоменклатура-Пользователь" targetFieldName="ПользовательID">
+            <xpObjectMoniker Id="f0b4d2c8-1025-4dcb-bd62-ae78e8eb069f" />
+          </simpleAssociation>
+          <simpleAssociation Id="d5710f3f-4a03-4f72-a78a-482336eb0729" sourceCollectionName="ВыданнаяНоменклатура_ПродажаООО" name="ВыданнаяНоменклатура_ПродажаООО-Пользователь" targetFieldName="ПользовательID">
+            <xpObjectMoniker Id="1aac99fa-e3f6-43d0-b444-fd9af2edffec" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="55cda5a8-8c27-4ab9-8fff-e6078c115836">
+            <collectionField Id="8e721269-9560-4ce0-be31-b23c7b46012c" name="ВыданнаяНоменклатура" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="0565a47d-1262-4d61-a0c4-42e97da70ab7">
+            <collectionField Id="fc36714a-4265-4f69-8f38-98932c6373c7" name="ВыданнаяНоменклатура_ПродажаООО" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="1693a05b-eedb-4e15-aad4-c05cdca194ba">
+      <xpObject Id="8c79a48f-e050-45c1-bd8e-5c2d01b563c6" name="Отдел" baseClass="XPObject" userFileName="Отдел" designerFileName="Отдел.Designer" className="Отдел" deferredDeletion="False" persistent="Склад.Отдел" virtualName="Отдел">
+        <fields>
+          <generalXpObjectHasFields Id="ffe3c477-43db-40b3-bac0-9dcd59cbdecb">
+            <field Id="1ecbeb6b-43e7-4f13-ae8e-ca166d67ccda" name="Название" persistent="Название" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="c2ee723f-9292-46ee-b275-09770cd5c565" sourceCollectionName="ВыданнаяНоменклатура" name="ВыданнаяНоменклатура-Отдел" targetFieldName="ОтделID">
+            <xpObjectMoniker Id="f0b4d2c8-1025-4dcb-bd62-ae78e8eb069f" />
+          </simpleAssociation>
+          <simpleAssociation Id="fbdc0341-72fa-4e7c-80bb-dc66462375b8" sourceCollectionName="ВыданнаяНоменклатура_ПродажаООО" name="ВыданнаяНоменклатура_ПродажаООО-Отдел" targetFieldName="ОтделID">
+            <xpObjectMoniker Id="1aac99fa-e3f6-43d0-b444-fd9af2edffec" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="3631cf42-c8b0-4b1b-ae20-e9ab4e230943">
+            <collectionField Id="210ac801-4f20-480d-94ad-6d4d1bd30f0e" name="ВыданнаяНоменклатура" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="8f75ff82-b323-43e4-a740-269fec8a8ed1">
+            <collectionField Id="f396e834-009f-4a69-aff1-5776e3924d76" name="ВыданнаяНоменклатура_ПродажаООО" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="c66b59b3-efeb-4ee3-a988-a77934383da1">
+      <xpObject Id="055d01e9-f260-45ef-99b1-904ad6c0b80d" name="Номенклатура" baseClass="XPObject" userFileName="Номенклатура" designerFileName="Номенклатура.Designer" className="Номенклатура" deferredDeletion="False" persistent="Склад.Номенклатура" virtualName="Номенклатура">
+        <fields>
+          <generalXpObjectHasFields Id="01669827-7f57-45d6-a84a-6866baee6aa5">
+            <field Id="3887c563-71a3-41d3-9142-50a5d7015795" name="Наименование" persistent="Наименование" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="Unlimited" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="033a8293-9496-47d4-98ee-049adb65a692">
+            <field Id="124cd4d3-f155-4833-bc32-b7aa8f612679" name="Серияномер" persistent="Серия номер" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="255" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="6b861055-d0a0-49f3-a22d-7b40fd23fa0f" sourceCollectionName="ВыданнаяНоменклатура" name="ВыданнаяНоменклатура-Номенклатура" targetFieldName="НоменклатураID">
+            <xpObjectMoniker Id="f0b4d2c8-1025-4dcb-bd62-ae78e8eb069f" />
+          </simpleAssociation>
+          <simpleAssociation Id="9bbaa9af-bca5-46fa-92ad-3df1a9a0a46f" sourceCollectionName="ВыданнаяНоменклатура_ПродажаООО" name="ВыданнаяНоменклатура_ПродажаООО-Номенклатура" targetFieldName="НоменклатураID">
+            <xpObjectMoniker Id="1aac99fa-e3f6-43d0-b444-fd9af2edffec" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="5f6d550f-fde8-4b15-b853-778560a8f51b">
+            <collectionField Id="dc671b7d-e3d6-4e1c-b899-576b2ad80280" name="ВыданнаяНоменклатура" />
+          </xpObjectHasCollectionFields>
+          <xpObjectHasCollectionFields Id="407d42dd-2b11-4662-b9ea-3d9c4f699bf4">
+            <collectionField Id="9c319dbd-4ea4-4964-abf5-3f1b2dad27f6" name="ВыданнаяНоменклатура_ПродажаООО" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="21b02f97-4416-462b-8244-9f7f93b7ca6a">
+      <xpObject Id="f0b4d2c8-1025-4dcb-bd62-ae78e8eb069f" name="ВыданнаяНоменклатура" baseClass="XPObject" userFileName="ВыданнаяНоменклатура" designerFileName="ВыданнаяНоменклатура.Designer" className="ВыданнаяНоменклатура" deferredDeletion="False" persistent="Склад.ВыданнаяНоменклатура" virtualName="ВыданнаяНоменклатура">
+        <fields>
+          <generalXpObjectHasFields Id="251ae3b8-9ed4-4647-bec6-fa84dae4c869">
+            <field Id="e6661805-5ea6-4dd0-ac48-7976a353d841" name="ДатаВыдачи" columnType="DateTime" persistent="ДатаВыдачи" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="9c76eb43-1eaa-4188-b3ec-5c6bc6ab0d3a">
+            <field Id="0e709517-0390-456c-ad64-4367cf48c06b" name="Количество" columnType="Byte" persistent="Количество" virtualColumnType="Byte" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="d4c154e7-d3f3-4d59-931a-1a5929830efd">
+            <field Id="4786c0d5-d3e6-4de6-b4c8-a6a4af0332bf" name="Статус" persistent="Статус" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="1e38390a-bfa8-4c16-bb29-3c1a821dc1ba">
+            <field Id="6b8d4d8b-d3e1-4e9f-be17-aa00870e7e90" name="НоменклатураID" persistent="НоменклатураID" virtualColumnType="Номенклатура" logicalType="Номенклатура" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="dbe7a7d6-80b1-4995-bb92-f709e1c5e4d9">
+            <field Id="49298806-2d69-479e-a14d-f47525a30ba8" name="ПользовательID" persistent="ПользовательID" virtualColumnType="Пользователь" logicalType="Пользователь" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="6e117ad8-7693-42d5-867f-4795d73cb6fb">
+            <field Id="b7efd0ba-34a7-4b1a-a632-7a248beccc9d" name="ОтделID" persistent="ОтделID" virtualColumnType="Отдел" logicalType="Отдел" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="976274ea-5012-40f1-a869-9abcc23af09b">
+      <xpObject Id="1aac99fa-e3f6-43d0-b444-fd9af2edffec" name="ВыданнаяНоменклатура_ПродажаООО" baseClass="XPObject" userFileName="ВыданнаяНоменклатура_ПродажаООО" designerFileName="ВыданнаяНоменклатура_ПродажаООО.Designer" className="ВыданнаяНоменклатура_ПродажаООО" deferredDeletion="False" persistent="Склад.ВыданнаяНоменклатура_ПродажаООО" virtualName="ВыданнаяНоменклатура_ПродажаООО">
+        <fields>
+          <generalXpObjectHasFields Id="4258b6bb-ab25-4478-9828-8241893b3219">
+            <field Id="7b9690f2-6f83-4cac-9190-4c28f78ebceb" name="ДатаВыдачи" columnType="DateTime" persistent="ДатаВыдачи" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="adf3d623-2977-49ea-be1e-154e20e9fc1d">
+            <field Id="d4347c91-20a6-4a0e-a9a8-797f5d9794c8" name="Количество" columnType="Byte" persistent="Количество" virtualColumnType="Byte" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="953686da-2d2e-4e57-a516-0cecf5556835">
+            <field Id="bf9db975-f26a-40e3-9822-efbd74389299" name="Статус" persistent="Статус" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="6bfaf31d-c9b7-4635-a1ca-c31841b84714">
+            <field Id="7733a017-e637-46d4-a0f4-35b02410ba7b" name="НоменклатураID" persistent="НоменклатураID" virtualColumnType="Номенклатура" logicalType="Номенклатура" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="f4ce2879-f487-43b4-9448-08d9f571e29a">
+            <field Id="83f50287-2901-4e4a-b84d-ed705bb665f3" name="ПользовательID" persistent="ПользовательID" virtualColumnType="Пользователь" logicalType="Пользователь" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="69bf3959-4448-4282-9242-7f9314907ff8">
+            <field Id="df9763b9-c137-48e6-af53-f9fad1137fd0" name="ОтделID" persistent="ОтделID" virtualColumnType="Отдел" logicalType="Отдел" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="10aee92f-3295-469e-ab61-4b997d558a31">
+      <xpObject Id="3055bbab-5429-4ca9-a908-66a35c2e32be" name="ПрограммноеОбеспечение" baseClass="XPObject" userFileName="ПрограммноеОбеспечение" designerFileName="ПрограммноеОбеспечение.Designer" className="ПрограммноеОбеспечение" deferredDeletion="False" persistent="Склад.ПрограммноеОбеспечение" virtualName="ПрограммноеОбеспечение">
+        <fields>
+          <generalXpObjectHasFields Id="3c01d342-3533-4f2c-b838-21b1c471d896">
+            <field Id="9d0c5207-6d81-47e9-b403-9522771e9d66" name="Наименование" persistent="Наименование" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="236b3d08-9e66-48a1-a1e7-b8bfd37df316" sourceCollectionName="СрокЛицензииПО" name="СрокЛицензииПО-ПрограммноеОбеспечение" targetFieldName="ПрограммноеОбеспечениеID">
+            <xpObjectMoniker Id="252f95b4-eb64-4bd6-b731-59013250ae78" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="da6f06af-7e4e-4948-a9e8-c5977074f260">
+            <collectionField Id="3ce8677e-7090-466e-9908-5b6c6506c0d8" name="СрокЛицензииПО" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="0e58a4e2-b5b1-475b-9525-7db168da7d16">
+      <xpObject Id="252f95b4-eb64-4bd6-b731-59013250ae78" name="СрокЛицензииПО" baseClass="XPObject" userFileName="СрокЛицензииПО" designerFileName="СрокЛицензииПО.Designer" className="СрокЛицензииПО" deferredDeletion="False" persistent="Склад.СрокЛицензииПО" virtualName="СрокЛицензииПО">
+        <fields>
+          <generalXpObjectHasFields Id="bc546f11-3914-44bb-b95e-59bd32a6aec6">
+            <field Id="4eb3e308-4702-400b-922b-46b4f2657bfd" name="ПрограммноеОбеспечениеID" persistent="ПрограммноеОбеспечениеID" virtualColumnType="ПрограммноеОбеспечение" logicalType="ПрограммноеОбеспечение" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="d0890d19-784a-4ec2-b560-18dcc9a9b670">
+            <field Id="7c44df19-80dc-4b76-baaa-44cd7ec74bab" name="ДатаПриобретения" columnType="DateTime" persistent="ДатаПриобретения" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="e3069aad-17b9-488e-92e4-afbbda117dd5">
+            <field Id="1faf11a4-df71-4b62-b2ba-5a6dbac81294" name="СрокЛицензии" columnType="DateTime" persistent="СрокЛицензии" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>
